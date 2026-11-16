@@ -1,0 +1,18 @@
+# Datos locales de demostración y privacidad de estudiantes
+demo_data/
+*.slk
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.pdf
+
+# Archivos de sistema y cachés
+desktop.ini
+Thumbs.db
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+
